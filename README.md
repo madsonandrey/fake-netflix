@@ -1,6 +1,7 @@
 # FAKE NETFLIX :movie_camera:
 
-![layout-final](https://media.giphy.com/media/63HoBoL6z70d7lDKOc/giphy.gif)
+<p align="center">
+<img src="https://github.com/madsonandrey/fake-netflix/blob/main/img/Layout%20Netflix.gif" width="60%" height="60%" />
 
 #### Projeto de criação de layout inspirado na plataforma Netflix, desenvolvido durante o bootcamp Avanade Angular Developer na plataforma Digital Innovation One.
 
